@@ -4,6 +4,7 @@ import Recipe from './models/Recipe';
 import List from './models/List';
 import * as searchView from './views/searchView';
 import * as recipeView from './views/recipeView';
+//import * as listView from './views/listView';
 import { elements, renderLoader, clearLoader } from './views/base';
 
 /* Global state
